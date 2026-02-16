@@ -175,7 +175,7 @@ export default function Page() {
               </div>
             </div>
 
-            {/* ShowSummary */}
+            {/*ShowSummary*/}
             <ShowSummary tipTotal={tipTotal} billTotal={billTotal} />
           </div>
         </div>
